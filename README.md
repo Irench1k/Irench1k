@@ -1,21 +1,24 @@
-## Hi there 👋 I am Irina!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Irina Iarlykanova
+=========================================================================================================================================
+
+Computer Science Student | Flylo Cofounder | MaaSec Founding Member
+-------------------------------------------------------------------
+
 Computer Science student at Maastricht University with interest in cybersecurity and problem-solving. I actively participate in CTFs and contribute to open-source projects.
 
-- 🔗 Founding Member of MaaSec
-- 👩‍🎓 Student of Maastricht University
-- 📫 How to reach me: irina.iarlykanova@gmail.com
+* 🌍  I'm based in Netherlands
+* ✉️  You can contact me at [irina.iarlykanova@gmail.com](mailto:irina.iarlykanova@gmail.com)
+* 🚀  I'm currently working on [Flylo](https://flylo.io)
 
-<!--
-**Irench1k/Irench1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Irench1k"><img src="https://github-readme-stats.vercel.app/api?username=Irench1k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Irench1k's GitHub stats" /></a>
