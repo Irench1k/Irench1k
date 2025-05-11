@@ -8,7 +8,7 @@ Computer Science student at Maastricht University with interest in cybersecurity
 
 * 🌍  I'm based in Netherlands
 * ✉️  You can contact me at [irina.iarlykanova@gmail.com](mailto:irina.iarlykanova@gmail.com)
-* 🚀  I'm currently working on [Flylo](https://flylo.io)
+* 🦥  I'm currently working on [Flylo](https://flylo.io)
 
 ### Skills
 
