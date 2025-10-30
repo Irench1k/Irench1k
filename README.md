@@ -1,7 +1,7 @@
 Hi 👾 My name is Irina Iarlykanova
 =========================================================================================================================================
 
-Computer Science Student | Flylo Cofounder | MaaSec Founding Member
+Computer Science Student | MaaSec Founding Member | Unsafe Code Lab Contributor
 -------------------------------------------------------------------
 
 Computer Science student at Maastricht University with interest in cybersecurity and problem-solving. I actively participate in CTFs and contribute to open-source projects.
