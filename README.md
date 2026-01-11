@@ -1,11 +1,11 @@
 Hi 👾 My name is Irina Iarlykanova
 =========================================================================================================================================
 
-Computer Science Student | MaaSec Founding Member | Unsafe Code Lab Contributor
+BSc Student | Unsafe Code Lab Author | Black Hat EU 2025 Speaker
 -------------------------------------------------------------------
 
-Computer Science student at Maastricht University with interest in cybersecurity and problem-solving. I actively participate in CTFs and contribute to open-source projects.
+Security researcher at Maastricht University exploring confusion vulnerabilities. Open-source contributor, CTF competitor, and public speaker.
 
-* 👩‍💻  Contributor to the [Unsafe Code Lab](https://github.com/Irench1k/unsafe-code)
-* 🌍  I'm based in the Netherlands
-* ✉️  You can contact me at [irina.iarlykanova@gmail.com](mailto:irina.iarlykanova@gmail.com)
+* 🌟  Author of [Unsafe Code Lab](https://github.com/Irench1k/unsafe-code)
+* 📍  Maastricht, Netherlands
+* ✉️  Contact me at [irina.iarlykanova@gmail.com](mailto:irina.iarlykanova@gmail.com)
