@@ -8,5 +8,5 @@ Security researcher at Maastricht University exploring confusion vulnerabilities
 
 * 🐛  Assigned [CVE-2026-54510](https://www.cve.org/CVERecord?id=CVE-2026-54510#adp-134c704f-9b21-4f2e-91b3-4a467353bcc0)
 * 🌟  Author of [Unsafe Code Lab](https://github.com/Irench1k/unsafe-code)
-* 📍  Maastricht, Netherlands
-* ✉️  Contact me at [irina.iarlykanova@gmail.com](mailto:irina.iarlykanova@gmail.com)
+* 📍  London, UK
+* ✉️  Contact me at [irina.iarlykanova@gmail.com](mailto:irina.iarlykanova@gmail.com) or [LinkedIn](https://www.linkedin.com/in/irina-iarlykanova/)
